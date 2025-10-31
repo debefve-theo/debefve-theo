@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+🔭 I’m currently working on AI, Vision, VR and mobile app
+👯 I’m looking for my final year master internship
+📫 How to reach me: theo.debefve@student.hepl.be
+
+[theo-debefve.be](theo-debefve.be).
 <!--
 **debefve-theo/debefve-theo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
