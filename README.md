@@ -4,4 +4,5 @@
 👯 I’m looking for my final year master internship<br>
 📫 How to reach me: theo.debefve@student.hepl.be<br>
 <br>
-[theo-debefve.be](theo-debefve.be).<br>
+[theo-debefve.be](https://theo-debefve.be)
+<br>
